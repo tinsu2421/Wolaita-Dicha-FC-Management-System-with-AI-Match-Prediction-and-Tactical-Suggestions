@@ -1,0 +1,90 @@
+Date,Opponent,HomeAway,Goals_For,Goals_Against,Shots,Possession,Opponent_Weakness,Result
+2025-06-01,Ethiopian Medhin,Home,2,1,10,55,Weak at wings,W
+2025-05-25,Shire Endaselassie,Away,0,2,7,48,Weak on set-pieces,L
+2025-05-18,Dire Dawa Kenema,Home,1,0,11,57,Weak aerial defense,W
+2025-05-11,Hawassa City,Away,1,2,9,50,Weak defensive transitions,L
+2025-05-04,Bahir Dar Kenema,Home,0,3,8,46,Strong wing attack,L
+2025-04-27,Arba Minch Kenema,Home,2,1,13,60,Slow center backs,W
+2025-04-20,Ethio Electric,Home,0,1,9,54,Strong midfield press,L
+2025-04-13,Sidama Bunna,Away,1,1,10,51,Weak fullbacks,D
+2025-04-06,Defence Force,Away,0,2,8,47,Strong physical play,L
+2025-03-30,Welwalo Adigrat,Home,2,0,14,58,Weak on counter-attacks,W
+2024-12-15,Hawassa City,Home,2,1,12,56,Weak on wings,W
+2024-12-08,Dire Dawa Kenema,Away,1,2,10,49,Strong defense,L
+2024-12-01,Bahir Dar Kenema,Home,0,2,9,47,Strong wing attack,L
+2024-11-24,Ethio Electric,Home,1,1,11,54,Weak midfield press,D
+2024-11-17,Arba Minch Kenema,Away,2,0,13,52,Slow center backs,W
+2024-11-10,Defence Force,Home,1,0,10,58,Weak set-pieces,W
+2023-12-18,Sidama Bunna,Away,0,1,8,48,Strong physical play,L
+2023-12-11,Hawassa City,Home,2,2,14,57,Weak defensive transitions,D
+2023-12-04,Dire Dawa Kenema,Home,1,0,11,60,Weak aerial defense,W
+2023-11-27,Ethiopian Medhin,Away,0,2,9,46,Strong counter attacks,L
+2023-11-20,Ethio Electric,Home,1,1,12,55,Weak fullbacks,D
+2023-11-13,Bahir Dar Kenema,Away,0,3,7,44,Strong wing attack,L
+2022-12-20,Arba Minch Kenema,Home,2,1,13,59,Slow defenders,W
+2022-12-13,Defence Force,Away,1,1,10,50,Weak aerial defense,D
+2022-12-06,Sidama Bunna,Home,0,2,9,53,Strong midfield,L
+2022-11-29,Hawassa City,Away,1,3,8,45,Fast counter attacks,L
+2022-11-22,Dire Dawa Kenema,Home,1,0,11,58,Weak on flanks,W
+2022-11-15,Ethiopian Medhin,Away,0,1,7,47,Strong defense,L
+2021-12-19,Bahir Dar Kenema,Home,1,2,10,55,Strong wing play,L
+2021-12-12,Ethio Electric,Away,1,0,9,49,Weak midfield,W
+2021-12-05,Arba Minch Kenema,Home,2,0,14,61,Slow backline,W
+2021-11-28,Defence Force,Away,0,2,8,46,Physical dominance,L
+2021-11-21,Sidama Bunna,Home,1,1,12,57,Weak set-pieces,D
+2021-11-14,Hawassa City,Away,0,1,9,48,High pressing,L
+2020-12-20,Dire Dawa Kenema,Home,2,1,13,60,Weak aerial defense,W
+2020-12-13,Ethiopian Medhin,Away,1,2,10,50,Strong midfield,L
+2020-12-06,Bahir Dar Kenema,Home,0,3,8,45,Strong attack,L
+2020-11-29,Ethio Electric,Home,1,0,11,56,Weak transitions,W
+2020-11-22,Arba Minch Kenema,Away,2,2,12,52,Slow defenders,D
+2020-11-15,Defence Force,Home,1,1,10,58,Weak finishing,D
+2024-12-15,Hawassa City,Home,2,1,12,56,Weak on wings,W
+2024-12-08,Dire Dawa Kenema,Away,1,2,10,49,Strong defense,L
+2024-12-01,Bahir Dar Kenema,Home,0,2,9,47,Strong wing attack,L
+2024-11-24,Ethio Electric,Home,1,1,11,54,Weak midfield press,D
+2024-11-17,Arba Minch Kenema,Away,2,0,13,52,Slow center backs,W
+2024-11-10,Defence Force,Home,1,0,10,58,Weak set-pieces,W
+2024-11-03,Sidama Bunna,Away,0,1,8,48,Physical midfield,L
+2024-10-27,Ethiopian Medhin,Home,2,2,14,59,Weak fullbacks,D
+2024-10-20,Welwalo Adigrat,Away,1,0,9,51,Weak aerial defense,W
+2024-10-13,Shire Endaselassie,Home,3,1,15,62,Slow defense,W
+2024-10-06,Hawassa City,Away,0,2,7,45,Fast counters,L
+2024-09-29,Dire Dawa Kenema,Home,1,1,11,57,Weak on flanks,D
+2024-09-22,Bahir Dar Kenema,Away,0,3,8,44,Strong attack,L
+2024-09-15,Ethio Electric,Away,1,0,10,53,Weak transitions,W
+2024-09-08,Arba Minch Kenema,Home,2,1,13,60,Slow defenders,W
+2024-09-01,Defence Force,Away,0,1,9,47,Physical dominance,L
+2023-12-18,Sidama Bunna,Away,0,1,8,48,Strong physical play,L
+2023-12-11,Hawassa City,Home,2,2,14,57,Weak defensive transitions,D
+2023-12-04,Dire Dawa Kenema,Home,1,0,11,60,Weak aerial defense,W
+2023-11-27,Ethiopian Medhin,Away,0,2,9,46,Strong counter attacks,L
+2023-11-20,Ethio Electric,Home,1,1,12,55,Weak fullbacks,D
+2023-11-13,Bahir Dar Kenema,Away,0,3,7,44,Strong wing attack,L
+2023-11-06,Arba Minch Kenema,Home,2,0,13,59,Slow defenders,W
+2023-10-30,Defence Force,Away,1,1,10,51,Weak finishing,D
+2023-10-23,Sidama Bunna,Home,1,2,11,56,High pressing,L
+2023-10-16,Hawassa City,Away,0,1,8,48,Fast transitions,L
+2023-10-09,Dire Dawa Kenema,Away,2,1,12,54,Weak backline,W
+2023-10-02,Welwalo Adigrat,Home,3,0,15,63,Slow defense,W
+2023-09-25,Shire Endaselassie,Away,1,1,10,50,Weak set-pieces,D
+2023-09-18,Ethiopian Medhin,Home,2,0,14,61,Weak aerial defense,W
+2023-09-11,Ethio Electric,Away,0,1,9,46,Strong midfield,L
+2023-09-04,Arba Minch Kenema,Away,1,2,10,49,Fast counters,L
+2022-12-20,Arba Minch Kenema,Home,2,1,13,59,Slow defenders,W
+2022-12-13,Defence Force,Away,1,1,10,50,Weak aerial defense,D
+2022-12-06,Sidama Bunna,Home,0,2,9,53,Strong midfield,L
+2022-11-29,Hawassa City,Away,1,3,8,45,Fast counter attacks,L
+2022-11-22,Dire Dawa Kenema,Home,1,0,11,58,Weak on flanks,W
+2022-11-15,Ethiopian Medhin,Away,0,1,7,47,Strong defense,L
+2022-11-08,Welwalo Adigrat,Home,2,0,12,60,Weak aerial defense,W
+2022-11-01,Shire Endaselassie,Away,1,2,10,48,Physical play,L
+2022-10-25,Bahir Dar Kenema,Home,0,1,9,55,Strong wing attack,L
+2022-10-18,Ethio Electric,Away,1,1,11,52,Weak midfield,D
+2022-10-11,Arba Minch Kenema,Away,2,2,13,54,Slow defense,D
+2022-10-04,Defence Force,Home,1,0,10,57,Weak set-pieces,W
+2022-09-27,Sidama Bunna,Away,0,2,8,46,Strong pressing,L
+2022-09-20,Hawassa City,Home,2,1,14,61,Weak fullbacks,W
+2022-09-13,Dire Dawa Kenema,Away,1,1,10,49,Weak transitions,D
+2022-09-06,Ethiopian Medhin,Home,3,1,16,63,Slow defenders,W
+

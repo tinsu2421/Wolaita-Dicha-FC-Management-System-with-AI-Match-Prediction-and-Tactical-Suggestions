@@ -1,0 +1,143 @@
+[17-Jan-2026 04:27:54 Europe/Berlin] Attempting to send email to: tinsaeteklu037@gmail.com
+[17-Jan-2026 04:27:57 Europe/Berlin] Email sent successfully to: tinsaeteklu037@gmail.com
+[17-Jan-2026 04:36:26 Europe/Berlin] Attempting to send email to: rediettesfaye09@gmail.com
+[17-Jan-2026 04:36:31 Europe/Berlin] Email sent successfully to: rediettesfaye09@gmail.com
+[17-Jan-2026 04:42:15 Europe/Berlin] Attempting to send email to: tinsaeteklu037@gmail.com
+[17-Jan-2026 04:42:18 Europe/Berlin] Email sent successfully to: tinsaeteklu037@gmail.com
+[17-Jan-2026 04:47:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\xampp\htdocs\Wolaita-Dicha-Fc\Auth\auth.php on line 441
+[17-Jan-2026 04:49:22 Europe/Berlin] Membership: standard, Amount: 500
+[17-Jan-2026 04:49:22 Europe/Berlin] Redirecting to payment selection for amount: 500
+[17-Jan-2026 04:56:48 Europe/Berlin] Membership: standard, Amount: 500
+[17-Jan-2026 04:56:48 Europe/Berlin] Redirecting to payment selection for amount: 500
+[17-Jan-2026 04:56:52 Europe/Berlin] Payment method form submitted with: telebirr
+[17-Jan-2026 04:56:52 Europe/Berlin] Session updated, redirecting to process_payment.php
+[17-Jan-2026 04:56:52 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: telebirr
+[17-Jan-2026 04:56:52 Europe/Berlin] Generated TX Ref: WDFC_1768622212_8999, Amount: 500
+[17-Jan-2026 04:56:52 Europe/Berlin] Would redirect to Telebirr: https://telebirr.et/payment/WDFC_1768622212_8999
+[17-Jan-2026 04:59:13 Europe/Berlin] Membership: standard, Amount: 500
+[17-Jan-2026 04:59:13 Europe/Berlin] Redirecting to payment selection for amount: 500
+[17-Jan-2026 04:59:18 Europe/Berlin] Payment method form submitted with: telebirr
+[17-Jan-2026 04:59:18 Europe/Berlin] Session updated, redirecting to process_payment.php
+[17-Jan-2026 04:59:18 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: telebirr
+[17-Jan-2026 04:59:18 Europe/Berlin] Generated TX Ref: WDFC_1768622358_2946, Amount: 500
+[17-Jan-2026 04:59:18 Europe/Berlin] Would redirect to Telebirr: https://telebirr.et/payment/WDFC_1768622358_2946
+[17-Jan-2026 05:01:29 Europe/Berlin] Membership: standard, Amount: 500
+[17-Jan-2026 05:01:29 Europe/Berlin] Redirecting to payment selection for amount: 500
+[17-Jan-2026 05:01:32 Europe/Berlin] Payment method form submitted with: telebirr
+[17-Jan-2026 05:01:32 Europe/Berlin] Session updated, redirecting to process_payment.php
+[17-Jan-2026 05:01:32 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: telebirr
+[17-Jan-2026 05:01:32 Europe/Berlin] Generated TX Ref: WDFC_1768622492_3310, Amount: 500
+[17-Jan-2026 05:01:32 Europe/Berlin] Would redirect to Telebirr: https://telebirr.et/payment/WDFC_1768622492_3310
+[17-Jan-2026 05:04:23 Europe/Berlin] Membership: standard, Amount: 500
+[17-Jan-2026 05:04:23 Europe/Berlin] Redirecting to payment selection for amount: 500
+[17-Jan-2026 05:05:36 Europe/Berlin] Membership: standard, Amount: 500
+[17-Jan-2026 05:05:36 Europe/Berlin] Redirecting to payment selection for amount: 500
+[17-Jan-2026 05:05:39 Europe/Berlin] Payment method form submitted with: telebirr
+[17-Jan-2026 05:05:39 Europe/Berlin] Session updated, redirecting to process_payment.php
+[17-Jan-2026 05:05:39 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: telebirr
+[17-Jan-2026 05:05:39 Europe/Berlin] Generated TX Ref: WDFC_1768622739_1619, Amount: 500
+[17-Jan-2026 05:05:39 Europe/Berlin] Would redirect to Telebirr: https://telebirr.et/payment/WDFC_1768622739_1619
+[17-Jan-2026 05:16:05 Europe/Berlin] Membership: standard, Amount: 500
+[17-Jan-2026 05:16:05 Europe/Berlin] Redirecting to payment selection for amount: 500
+[17-Jan-2026 05:16:09 Europe/Berlin] Payment method form submitted with: telebirr
+[17-Jan-2026 05:16:09 Europe/Berlin] Session updated, redirecting to process_payment.php
+[17-Jan-2026 05:16:09 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: telebirr
+[17-Jan-2026 05:16:09 Europe/Berlin] Generated TX Ref: WDFC_1768623369_5771, Amount: 500
+[17-Jan-2026 05:16:09 Europe/Berlin] Payment processing error: Telebirr API connection failed
+[17-Jan-2026 05:16:16 Europe/Berlin] Payment method form submitted with: chapa
+[17-Jan-2026 05:16:16 Europe/Berlin] Session updated, redirecting to process_payment.php
+[17-Jan-2026 05:16:16 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: chapa
+[17-Jan-2026 05:16:16 Europe/Berlin] Generated TX Ref: WDFC_1768623376_6560, Amount: 500
+[17-Jan-2026 05:16:17 Europe/Berlin] Payment processing error: Chapa payment initialization failed
+[18-Jan-2026 18:18:37 Europe/Berlin] Membership: standard, Amount: 500
+[18-Jan-2026 18:18:37 Europe/Berlin] Redirecting to payment selection for amount: 500
+[18-Jan-2026 18:18:49 Europe/Berlin] Payment method form submitted with: chapa
+[18-Jan-2026 18:18:49 Europe/Berlin] Session updated, redirecting to process_payment.php
+[18-Jan-2026 18:18:49 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: chapa
+[18-Jan-2026 18:18:49 Europe/Berlin] Generated TX Ref: WDFC_1768756729_4516, Amount: 500
+[18-Jan-2026 18:18:51 Europe/Berlin] Payment processing error: Chapa payment initialization failed
+[18-Jan-2026 18:29:39 Europe/Berlin] Membership: digital, Amount: 0
+[18-Jan-2026 18:29:39 Europe/Berlin] Free membership, proceeding with direct registration
+[18-Jan-2026 18:29:39 Europe/Berlin] Attempting to send email to: tinsaeteklu037@gmail.com
+[18-Jan-2026 18:29:42 Europe/Berlin] Email sent successfully to: tinsaeteklu037@gmail.com
+[18-Jan-2026 18:53:39 Europe/Berlin] Membership: digital, Amount: 0
+[18-Jan-2026 18:53:39 Europe/Berlin] Free membership, proceeding with direct registration
+[18-Jan-2026 18:53:39 Europe/Berlin] Attempting to send email to: tinsaeteklu037@gmail.com
+[18-Jan-2026 18:53:58 Europe/Berlin] Email failed: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[19-Jan-2026 05:54:35 Europe/Berlin] Membership: digital, Amount: 0
+[19-Jan-2026 05:54:35 Europe/Berlin] Free membership, proceeding with direct registration
+[19-Jan-2026 05:54:35 Europe/Berlin] Attempting to send email to: tinsaeteklu037@gmail.com
+[19-Jan-2026 05:54:38 Europe/Berlin] Email sent successfully to: tinsaeteklu037@gmail.com
+[19-Jan-2026 08:58:15 Europe/Berlin] Membership: standard, Amount: 500
+[19-Jan-2026 08:58:15 Europe/Berlin] Redirecting to payment selection for amount: 500
+[19-Jan-2026 08:58:19 Europe/Berlin] Payment method form submitted with: chapa
+[19-Jan-2026 08:58:19 Europe/Berlin] Session updated, redirecting to process_payment.php
+[19-Jan-2026 08:58:19 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: chapa
+[19-Jan-2026 08:58:19 Europe/Berlin] Generated TX Ref: WDFC_1768809499_5689, Amount: 500
+[19-Jan-2026 08:58:20 Europe/Berlin] Payment processing error: Chapa payment initialization failed
+[19-Jan-2026 08:58:26 Europe/Berlin] Payment method form submitted with: chapa
+[19-Jan-2026 08:58:26 Europe/Berlin] Session updated, redirecting to process_payment.php
+[19-Jan-2026 08:58:26 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: chapa
+[19-Jan-2026 08:58:26 Europe/Berlin] Generated TX Ref: WDFC_1768809506_3109, Amount: 500
+[19-Jan-2026 08:58:26 Europe/Berlin] Payment processing error: Chapa payment initialization failed
+[19-Jan-2026 08:59:12 Europe/Berlin] Membership: standard, Amount: 500
+[19-Jan-2026 08:59:12 Europe/Berlin] Redirecting to payment selection for amount: 500
+[19-Jan-2026 08:59:15 Europe/Berlin] Payment method form submitted with: telebirr
+[19-Jan-2026 08:59:15 Europe/Berlin] Session updated, redirecting to process_payment.php
+[19-Jan-2026 08:59:15 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: telebirr
+[19-Jan-2026 08:59:15 Europe/Berlin] Generated TX Ref: WDFC_1768809555_7115, Amount: 500
+[19-Jan-2026 08:59:15 Europe/Berlin] Payment processing error: Telebirr API connection failed
+[19-Jan-2026 08:59:18 Europe/Berlin] Payment method form submitted with: chapa
+[19-Jan-2026 08:59:18 Europe/Berlin] Session updated, redirecting to process_payment.php
+[19-Jan-2026 08:59:18 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: chapa
+[19-Jan-2026 08:59:18 Europe/Berlin] Generated TX Ref: WDFC_1768809558_1274, Amount: 500
+[19-Jan-2026 08:59:19 Europe/Berlin] Payment processing error: Chapa payment initialization failed
+[19-Jan-2026 09:15:03 Europe/Berlin] PHP Warning:  Constant SERVERHOST already defined in C:\xampp\htdocs\Wolaita-Dicha-Fc\Configuration\ini.php on line 11
+[19-Jan-2026 09:15:03 Europe/Berlin] PHP Warning:  Constant SERVERUNAME already defined in C:\xampp\htdocs\Wolaita-Dicha-Fc\Configuration\ini.php on line 12
+[19-Jan-2026 09:15:03 Europe/Berlin] PHP Warning:  Constant SERVERPASSWORD already defined in C:\xampp\htdocs\Wolaita-Dicha-Fc\Configuration\ini.php on line 13
+[19-Jan-2026 09:15:03 Europe/Berlin] PHP Warning:  Constant SERVERDB already defined in C:\xampp\htdocs\Wolaita-Dicha-Fc\Configuration\ini.php on line 14
+[19-Jan-2026 09:15:03 Europe/Berlin] PHP Fatal error:  Cannot declare class Database, because the name is already in use in C:\xampp\htdocs\Wolaita-Dicha-Fc\Configuration\DBconfig.php on line 8
+[19-Jan-2026 09:17:17 Europe/Berlin] Payment method form submitted with: chapa
+[19-Jan-2026 09:17:17 Europe/Berlin] Session updated, redirecting to process_payment.php
+[19-Jan-2026 09:17:17 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: chapa
+[19-Jan-2026 09:17:17 Europe/Berlin] PHP Warning:  Constant SERVERHOST already defined in C:\xampp\htdocs\Wolaita-Dicha-Fc\Configuration\ini.php on line 11
+[19-Jan-2026 09:17:17 Europe/Berlin] PHP Warning:  Constant SERVERUNAME already defined in C:\xampp\htdocs\Wolaita-Dicha-Fc\Configuration\ini.php on line 12
+[19-Jan-2026 09:17:17 Europe/Berlin] PHP Warning:  Constant SERVERPASSWORD already defined in C:\xampp\htdocs\Wolaita-Dicha-Fc\Configuration\ini.php on line 13
+[19-Jan-2026 09:17:17 Europe/Berlin] PHP Warning:  Constant SERVERDB already defined in C:\xampp\htdocs\Wolaita-Dicha-Fc\Configuration\ini.php on line 14
+[19-Jan-2026 09:17:17 Europe/Berlin] PHP Fatal error:  Cannot declare class Database, because the name is already in use in C:\xampp\htdocs\Wolaita-Dicha-Fc\Configuration\DBconfig.php on line 8
+[19-Jan-2026 09:26:03 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: chapa
+[19-Jan-2026 09:26:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PaymentHandler" not found in C:\xampp\htdocs\Wolaita-Dicha-Fc\process_payment.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Wolaita-Dicha-Fc\process_payment.php on line 35
+[19-Jan-2026 09:32:56 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: chapa
+[19-Jan-2026 09:32:56 Europe/Berlin] Generated TX Ref: FAKE_WDFC_1768811576_5440, Amount: 500
+[19-Jan-2026 09:32:56 Europe/Berlin] Redirecting to payment gateway: http://localhost/Wolaita-Dicha-Fc/fake_chapa_checkout.php?tx_ref=FAKE_WDFC_1768811576_5440
+[19-Jan-2026 09:43:32 Europe/Berlin] Processing payment success for TX Ref: FAKE_WDFC_1768811576_5440, Status: success
+[19-Jan-2026 09:43:32 Europe/Berlin] Payment success page error: SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+[19-Jan-2026 09:44:01 Europe/Berlin] Membership: standard, Amount: 500
+[19-Jan-2026 09:44:01 Europe/Berlin] Redirecting to payment selection for amount: 500
+[19-Jan-2026 09:44:05 Europe/Berlin] Payment method form submitted with: chapa
+[19-Jan-2026 09:44:05 Europe/Berlin] Session updated, redirecting to process_payment.php
+[19-Jan-2026 09:44:05 Europe/Berlin] Processing payment for: tinsaeteklu037@gmail.com with method: chapa
+[19-Jan-2026 09:44:05 Europe/Berlin] Generated TX Ref: FAKE_WDFC_1768812245_1859, Amount: 500
+[19-Jan-2026 09:44:05 Europe/Berlin] Redirecting to payment gateway: http://localhost/Wolaita-Dicha-Fc/fake_chapa_checkout.php?tx_ref=FAKE_WDFC_1768812245_1859
+[19-Jan-2026 09:44:09 Europe/Berlin] Processing payment success for TX Ref: FAKE_WDFC_1768812245_1859, Status: success
+[19-Jan-2026 09:44:09 Europe/Berlin] Payment success page error: SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+[19-Jan-2026 09:49:27 Europe/Berlin] Processing payment success for TX Ref: FAKE_WDFC_1768812245_1859, Status: success
+[19-Jan-2026 09:49:27 Europe/Berlin] Fan registered successfully with TX Ref: FAKE_WDFC_1768812245_1859
+[19-Jan-2026 09:49:27 Europe/Berlin] Payment success processed for: tinsaeteklu037@gmail.com
+[19-Jan-2026 12:48:46 Europe/Berlin] Membership: digital, Amount: 0
+[19-Jan-2026 12:48:46 Europe/Berlin] Free membership, proceeding with direct registration
+[19-Jan-2026 12:48:46 Europe/Berlin] Attempting to send email to: tinsaeteklu037@gmail.com
+[19-Jan-2026 12:48:50 Europe/Berlin] Email sent successfully to: tinsaeteklu037@gmail.com
+[19-Jan-2026 12:50:18 Europe/Berlin] Membership: standard, Amount: 500
+[19-Jan-2026 12:50:18 Europe/Berlin] Redirecting to payment selection for amount: 500
+[19-Jan-2026 12:50:23 Europe/Berlin] Payment method form submitted with: chapa
+[19-Jan-2026 12:50:23 Europe/Berlin] Session updated, redirecting to process_payment.php
+[19-Jan-2026 12:50:23 Europe/Berlin] Processing payment for: rediettesfaye09@gmail.com with method: chapa
+[19-Jan-2026 12:50:23 Europe/Berlin] Generated TX Ref: FAKE_WDFC_1768823423_3372, Amount: 500
+[19-Jan-2026 12:50:23 Europe/Berlin] Redirecting to payment gateway: http://localhost/Wolaita-Dicha-Fc/fake_chapa_checkout.php?tx_ref=FAKE_WDFC_1768823423_3372
+[19-Jan-2026 12:50:30 Europe/Berlin] Processing payment success for TX Ref: FAKE_WDFC_1768823423_3372, Status: success
+[19-Jan-2026 12:50:30 Europe/Berlin] Fan registered successfully with TX Ref: FAKE_WDFC_1768823423_3372
+[19-Jan-2026 12:50:30 Europe/Berlin] Payment success processed for: rediettesfaye09@gmail.com
